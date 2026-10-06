@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+sqlalchemy
+alembic
+psycopg2-binary
+opencv-python
+python-dotenv
+httpx

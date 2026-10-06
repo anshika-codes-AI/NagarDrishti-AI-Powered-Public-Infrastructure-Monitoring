@@ -1,0 +1,21 @@
+# Dependencies
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+node_modules/
+.next/
+dist/
+build/
+media/uploads/*
+media/evidence/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Media files (large uploads)
+media/uploads/*
+media/evidence/*
